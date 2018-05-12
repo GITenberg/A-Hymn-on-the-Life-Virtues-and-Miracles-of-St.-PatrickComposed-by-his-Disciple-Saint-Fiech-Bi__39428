@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '40017'
     url: http://www.gutenberg.org/2009/agents/40017
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39428#A-Hymn-on-the-Life-Virtues-and-Miracles-of-St.-PatrickComposed-by-his-Disciple-Saint-Fiech-Bi_
 gutenberg_issued: '2012-04-11'
 gutenberg_type: Text
 identifiers:
